@@ -1,6 +1,6 @@
 # Minimizing Polarization in Noisy Leader-Follower Opinion Dynamics
 
-This code accompanies the paper "Minimizing Polarization in Noisy Leader-Follower Opinion Dynamics" submitted to NeurIPS 2022. The code is written in *Julia v1.3.1*.
+This code accompanies the paper "Minimizing Polarization in Noisy Leader-Follower Opinion Dynamics" submitted to IEEE Transactions on Knowledge and Data Engineering. The code is written in *Julia v1.3.1*.
 
 ## Datasets
 
