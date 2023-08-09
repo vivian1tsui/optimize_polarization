@@ -1,6 +1,6 @@
 # Minimizing Polarization in Noisy Leader-Follower Opinion Dynamics
 
-This code accompanies the paper "Minimizing Polarization in Noisy Leader-Follower Opinion Dynamics" submitted to IEEE Transactions on Neural Networks and Learning Systems. The code is written in *Julia v1.3.1*.
+This code accompanies the paper "Minimizing Polarization in Noisy Leader-Follower Opinion Dynamics" accepted by CIKM '23  conference. The code is written in *Julia v1.3.1*.
 
 ## Datasets
 
